@@ -1,0 +1,5 @@
+C:\Users\MPatton5\source\repos\UsedCarLot\UsedCarLot\obj\Debug\netcoreapp3.1\UsedCarLot.csproj.AssemblyReference.cache
+C:\Users\MPatton5\source\repos\UsedCarLot\UsedCarLot\obj\Debug\netcoreapp3.1\UsedCarLot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MPatton5\source\repos\UsedCarLot\UsedCarLot\obj\Debug\netcoreapp3.1\UsedCarLot.AssemblyInfoInputs.cache
+C:\Users\MPatton5\source\repos\UsedCarLot\UsedCarLot\obj\Debug\netcoreapp3.1\UsedCarLot.AssemblyInfo.cs
+C:\Users\MPatton5\source\repos\UsedCarLot\UsedCarLot\obj\Debug\netcoreapp3.1\UsedCarLot.csproj.CoreCompileInputs.cache
